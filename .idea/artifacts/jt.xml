@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jt">
+    <output-path>$PROJECT_DIR$/out/artifacts/jt</output-path>
+    <root id="archive" name="jt.war">
+      <element id="dir-copy" path="$PROJECT_DIR$/jt-manage/src/main/webapp/WEB-INF/views" />
+    </root>
+  </artifact>
+</component>
